@@ -41,13 +41,7 @@ h1 {
   margin-right: 20px;
   text-align: left;
 }
-img {
-    width: 300px;
-    height:300px;
-    margin-right: 20px;
-    float:left;
-    border-radius:50%;
-}
+
 ul {
   border: 1px solid #555;
 }
